@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-mock/static/css/main.abd64e84.css",
+    "main.js": "/react-mock/static/js/main.87751996.js",
+    "static/js/787.635aedaa.chunk.js": "/react-mock/static/js/787.635aedaa.chunk.js",
+    "index.html": "/react-mock/index.html",
+    "main.abd64e84.css.map": "/react-mock/static/css/main.abd64e84.css.map",
+    "main.87751996.js.map": "/react-mock/static/js/main.87751996.js.map",
+    "787.635aedaa.chunk.js.map": "/react-mock/static/js/787.635aedaa.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.87751996.js"
+  ]
+}
